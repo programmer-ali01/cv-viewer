@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6D0DC301-826B-4050-A2F7-D8CA4417D6EB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9888094-3CD0-4C41-B7DA-AD61C666C293"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cv-viewerTests/SkillsTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "SkillsTest"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F9888094-3CD0-4C41-B7DA-AD61C666C293 - dac68fb33108d47f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cv_viewerTests.SkillsTest.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; cv_viewerTests.SkillsTest"
+                  moduleName = "cv-viewerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alisenamudaber/Desktop/native-ios-2022/cv-viewer/cv-viewerTests/SkillsTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "F9888094-3CD0-4C41-B7DA-AD61C666C293 - 83ead3fe6ef8b2da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cv_viewerTests.SkillsTest.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; cv_viewerTests.SkillsTest"
+                  moduleName = "cv-viewerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alisenamudaber/Desktop/native-ios-2022/cv-viewer/cv-viewerTests/SkillsTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "F9888094-3CD0-4C41-B7DA-AD61C666C293 - 4f11922a845f28f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cv_viewerTests.SkillsTest.__allocating_init(selector: ObjectiveC.Selector) -&gt; cv_viewerTests.SkillsTest"
+                  moduleName = "cv-viewerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alisenamudaber/Desktop/native-ios-2022/cv-viewer/cv-viewerTests/SkillsTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "F9888094-3CD0-4C41-B7DA-AD61C666C293 - 3ebcf140c67f4294"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cv_viewerTests.SkillsTest.init(selector: ObjectiveC.Selector) -&gt; cv_viewerTests.SkillsTest"
+                  moduleName = "cv-viewerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alisenamudaber/Desktop/native-ios-2022/cv-viewer/cv-viewerTests/SkillsTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  uuid = "F9888094-3CD0-4C41-B7DA-AD61C666C293 - 8a2152d6cdf6958e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cv_viewerTests.SkillsTest.__allocating_init() -&gt; cv_viewerTests.SkillsTest"
+                  moduleName = "cv-viewerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alisenamudaber/Desktop/native-ios-2022/cv-viewer/cv-viewerTests/SkillsTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  uuid = "F9888094-3CD0-4C41-B7DA-AD61C666C293 - 9bcdafb8e49dabb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cv_viewerTests.SkillsTest.init() -&gt; cv_viewerTests.SkillsTest"
+                  moduleName = "cv-viewerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alisenamudaber/Desktop/native-ios-2022/cv-viewer/cv-viewerTests/SkillsTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "F9888094-3CD0-4C41-B7DA-AD61C666C293 - 63848c5c9edcd0e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cv_viewerTests.SkillsTest.__deallocating_deinit"
+                  moduleName = "cv-viewerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alisenamudaber/Desktop/native-ios-2022/cv-viewer/cv-viewerTests/SkillsTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
